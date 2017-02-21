@@ -28,7 +28,7 @@ composer install
 
 ## 项目截图
 
-![image](http://image18-c.poco.cn/mypoco/myphoto/20170221/23/18478600320170221235819010_640.jpg?2048x1323_120)
+![image](http://i1.piimg.com/586187/56c0966c12cdc50b.png)
 ## 文档和手册
 1. [Yii 权威指南](http://www.yii-china.com/doc/guide.html)
 2. [Yii 高级版开发指南](http://www.yii-china.com/doc/detail/1.html)
