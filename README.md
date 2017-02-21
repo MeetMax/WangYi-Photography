@@ -8,11 +8,17 @@
 1、首先你要下载[Composer](http://www.yiiframework.com/doc-2.0/guide-start-installation.html#installing-via-composer) ,然后手动创建一个sugar数据库的数据库，将项目目录下的sql 文件导入数据库，建议使用``utf-8``的编码格式。
 
 ```
+//全局安装插件
 composer global require "fxp/composer-asset-plugin:~1.1.1"
-git clone https://github.com/MeetMax/WangYi-Photography.git
-cd WangYi-Photography
-composer install 
 
+//克隆项目到本地
+git clone https://github.com/MeetMax/WangYi-Photography.git
+
+//进入项目目录
+cd WangYi-Photography
+
+//通过composer 安装项目依赖
+composer install 
 ```
 2、安装完成后使用phpMyAdmin 新建名为XXX（任意） 的数据库，然后把项目目录下的sugar.sql 文件导入到新创建的数据库，然后需要修改数据库配置，本项目默认配置在``/common/config/main-local.php ``文件下，将数据库名字改成你创建的名字。
 ### 归档文件下载
