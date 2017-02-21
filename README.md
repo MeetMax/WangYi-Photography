@@ -21,9 +21,7 @@ composer install
 2、下载完成后，接着走上面的第2步。
 
 ## 项目截图
-#### 首页
-![image](http://image18-c.poco.cn/mypoco/myphoto/20170221/23/1847860032017022123543508.png?2048x1323_120)
-#### 热门组图
+
 ![image](http://image18-c.poco.cn/mypoco/myphoto/20170221/23/18478600320170221235819010_640.jpg?2048x1323_120)
 ## 文档和手册
 1. [Yii 权威指南](http://www.yii-china.com/doc/guide.html)
